@@ -1,0 +1,8 @@
+.card-main {
+  width: 80%;
+  min-height: 60%;
+}
+
+.card-text {
+  text-align: justify;
+}
